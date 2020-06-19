@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ViewPager</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="notifications_fragment">Notifications Fragment</string>
+    <string name="post_fragment">Post Fragment</string>
+    <string name="search_fragments">Search Fragments</string>
+    <string name="profile_fragment">Profile Fragment</string>
+</resources>
